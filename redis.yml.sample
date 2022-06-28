@@ -1,0 +1,15 @@
+# host: redis-production
+# password: somepassword
+# sentinels:
+#   -
+#     host: redis01.local.com
+#     port: 6379
+#   -
+#     host: redis02.local.com
+#     port: 6379
+#   -
+#     host: redis03.local.com
+#     port: 6379
+
+host: localhost
+port: 6391
